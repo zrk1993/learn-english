@@ -1,13 +1,21 @@
 ## 2018-05-07
 
 - unhandled    未处理
+- queue    队列
+- atomic    原子
+- noop    空操作
+- abort    终止
+- transition    过度
+- iterator    迭代器
+- hook    钩子
+- normalize    正常化 
 
 
 ## 2018-05-05
 
 - ensure    确保
 - chunk    块
-- premature optimization    过早优化
+- premature optimization    过早 优化
 - condition    条件
 
 
