@@ -1,3 +1,12 @@
+## 2018-05-09
+
+- subject    主题
+- observer    观察者
+- publisher    发布者
+- subscriber    订阅者
+- advanced    高级
+
+
 ## 2018-05-08
 
 - member    成员
