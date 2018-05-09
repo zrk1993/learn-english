@@ -1,3 +1,9 @@
+## 2018-05-08
+
+- member    成员
+- anonymous    匿名
+
+
 ## 2018-05-07
 
 - unhandled    未处理
@@ -8,7 +14,9 @@
 - transition    过度
 - iterator    迭代器
 - hook    钩子
-- normalize    正常化 
+- normalize    正常化
+- resolve    解决
+- match    匹配 
 
 
 ## 2018-05-05
