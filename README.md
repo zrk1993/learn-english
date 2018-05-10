@@ -46,7 +46,7 @@
 
 - declare    声明
 - inspect    检查
-- getway    网关
+- gateway    网关
 - unique    唯一的
 
 
