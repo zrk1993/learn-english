@@ -100,10 +100,12 @@ async function generateWords(path) {
 	return words;
 }
 
-generateWords('README.md').then((words) => {
+async function main() {
+	const words = await generateWords('README.md');
 	new TypingPractice({
 		words,
 		practiceType: '0-c-e',
 	})
-	.start();
-});
+}
+
+main();

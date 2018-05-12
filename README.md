@@ -1,3 +1,13 @@
+## 2018-05-11
+
+- feature    特性
+- vai    通过
+- dependency    依赖
+- ecosystem    生态系统
+- issue    问题
+- although    尽管
+
+
 ## 2018-05-10
 
 - correct    正确
