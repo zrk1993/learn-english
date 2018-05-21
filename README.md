@@ -1,3 +1,11 @@
+## 2018-05-21
+
+- crucial    关键
+- acronym    缩写
+- principle    原则
+- feedback    反馈
+
+
 ## 2018-05-18
 
 - origin    来源
