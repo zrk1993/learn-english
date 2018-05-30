@@ -1,3 +1,9 @@
+## 2018-05-26
+
+- maintain    维持
+- external    外部
+
+
 ## 2018-05-21
 
 - crucial    关键
