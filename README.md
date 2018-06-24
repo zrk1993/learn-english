@@ -1,6 +1,15 @@
+## 2018-06-24
+
+- dimension    维度
+- metrics    指标
+- column    列
+- row    行
+
+
 ## 2018-06-21
 
 - consistent    一致的
+- generally    通常
 
 
 ## 2018-06-20
